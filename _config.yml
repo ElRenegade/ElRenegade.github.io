@@ -1,11 +1,11 @@
 # Site settings
 author: Santiago Sanchez
-title: 
+title: CLI PROJECT
 header-img: img/home-bg.png
 email: chagostwo@yahoo.com
 copyright_name: Santiago Sanchez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Post Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ElRenegade
